@@ -13,4 +13,4 @@ The code for this repository is in the starter_code folder in the form of a jupy
 For this tasks we were provided several files. The data provided was from the "crypto_market_data.csv" file. This CSV contains all of the data which is used in this challenge.
 
 ## Code Sources
-The code in this repository was sourced from starter code provided by the bootcamp as well as from in-class activities and documentation libraries for Pandas for certain aspects of this challenge. At times I did have to utilize google for simple queries and information. 
+The code in this repository was sourced from starter code provided by the bootcamp as well as from in-class activities and documentation libraries for Pandas and Scikit-learn for certain aspects of this challenge. At times I did have to utilize google for simple queries and information. 
